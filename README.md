@@ -3,7 +3,7 @@
 <img align="left" src="https://camo.githubusercontent.com/f96fe25b150c6d62d6ff99b9f21006595c8cd757a24ebddf9d158297337cf6d1/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f31334867774773584630616947592f67697068792e676966"/>
 
 <p></a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"><em> Android developer at <a href="http://www.enjoei.com.br">enjoei</em></p>
-<p></a><img src="https://github.com/anathayna/anathayna/blob/master/assets/bmo.gif?raw=1" width="30vw"/> <em> Electronic technician and soon a student of bachelor's degree in information sciencer</em></p>
+<p></a><img src="https://github.com/anathayna/anathayna/blob/master/assets/bmo.gif?raw=1" width="30vw"/> <em> Electronic technician and universitary student</em></p>
 <p></a><img src="https://github.com/anathayna/anathayna/blob/master/assets/enthusiast.gif?raw=1" width="35vw"/> <em>programming enthusiast</em></p>
 <p></a><img src="https://github.com/anathayna/anathayna/blob/master/assets/happy.gif?raw=1" width="25vw"/> <em> in love with science, tech, math & technology</em></p>
 <p></a><img src="https://github.com/anathayna/anathayna/blob/master/assets/coin.gif?raw=1" width="20vw"/> <em> a videogamer </em></p>
