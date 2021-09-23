@@ -1,4 +1,4 @@
-## println(" hi there \\o/ ") <img src="https://media1.giphy.com/media/j0eRJzyW7XjMpu1Pqd/giphy.gif" width="100px">
+## println(" hi there! ") <img src="https://media1.giphy.com/media/j0eRJzyW7XjMpu1Pqd/giphy.gif" width="100px">
 
 <img align="left" src="https://camo.githubusercontent.com/f96fe25b150c6d62d6ff99b9f21006595c8cd757a24ebddf9d158297337cf6d1/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f31334867774773584630616947592f67697068792e676966"/>
 
